@@ -2,14 +2,15 @@
     {
         "username": "rlberger",
         "password": "",
-        "registrationCode": "683645",
-        "term": "201710",
-        "registrationDate": [2017,3,17,22],
+        "registrationCode": "455600",
+        "term": "201720",
+        "registrationDate": [2017,10,11,22],
         "crns": [
-            4688,
-            4974,
-            4999,
-            4871
+            6024,
+            6013,
+            6654,
+            6803,
+            7500
         ]
     }
 ]
