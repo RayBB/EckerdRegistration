@@ -125,8 +125,6 @@ class Account {
       this.log("--" + value);
     })
 
-    console.log(registered);
-    console.log(notRegistered);
     this.log("Didn't get into: ");
     notRegistered.forEach((value) => {
       if (!registered.includes(value)){
