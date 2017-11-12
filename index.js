@@ -107,6 +107,7 @@ class Account {
   }
 
   submitCRNs() {
+    console.log("Submitting CRNS!");
     let newURL = "https://myecweb.eckerd.edu/pls/prod/bwckcoms.P_Regs"+ this.crnString;
     return this.request
     .post(newURL)
